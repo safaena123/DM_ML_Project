@@ -4,9 +4,9 @@ In this project, we used the techniques learned throughout the data mining and m
 
 ---
 ## Contents:
-* Data Preprocessing 
-* Exploratory Data Analysis
-* Logistic Regression
-* Support Vector Machine
-* K Nearest Neighbors
-* K Means
+- Data Preprocessing 
+- Exploratory Data Analysis
+- Logistic Regression
+- Support Vector Machine
+- K Nearest Neighbors
+- K Means
